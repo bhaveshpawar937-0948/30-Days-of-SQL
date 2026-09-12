@@ -39,15 +39,15 @@ CTEs, window functions, advanced querying and practical analysis.
 
 ## 📅 Progress
 
-| Day    | Topic                       | Status |
-| ------ | --------------------------- | ------ |
-| Day 01 | SQL & Database Fundamentals | ✅      |
-| Day 02 | SELECT Statements           | ✅      |
-| Day 03 | Filtering Data              | ✅      |
-| Day 04 | Coming Soon                 | ⏳      |
-| Day 05 | Coming Soon                 | ⏳      |
-| ...    | ...                         | ...    |
-| Day 30 | Final Challenge             | ⏳      |
+| Day | Topic | Status |
+|---|---|---|
+| [Day 01](Day-01/) | SQL & Database Fundamentals | ✅ |
+| [Day 02](Day-02/) | SELECT Statements & Data Retrieval | ✅ |
+| [Day 03](Day-03/) | Filtering Data with WHERE | ✅ |
+| [Day 04](Day-04/) | Sorting & Limiting Data | ✅ |
+| [Day 05](Day-05/) | Aggregate Functions | ✅ |
+| [Day 06](Day-06/) | GROUP BY & HAVING | ✅ |
+| Day 07 | INNER JOIN | ⏳ |
 
 *The table will be updated as the challenge progresses.*
 
