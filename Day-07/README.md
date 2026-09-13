@@ -1,4 +1,4 @@
-\# Day 08 - LEFT JOIN \& Unmatched Records 🔗
+\# Day 07 - LEFT JOIN \& Unmatched Records 🔗
 
 
 
