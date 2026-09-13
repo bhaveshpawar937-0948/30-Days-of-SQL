@@ -1,6 +1,6 @@
 -- ============================================================
 -- 30 Days of SQL
--- Day 08: LEFT JOIN & Unmatched Records
+-- Day 07: LEFT JOIN & Unmatched Records
 -- Author: Bhavesh Pawar
 -- ============================================================
 
