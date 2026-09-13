@@ -47,8 +47,9 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 04](Day-04/) | Sorting & Limiting Data | ✅ |
 | [Day 05](Day-05/) | Aggregate Functions | ✅ |
 | [Day 06](Day-06/) | GROUP BY & HAVING | ✅ |
-| Day 07 | INNER JOIN | ⏳ |
-
+| [Day 07](Day-07/) | INNER JOIN | ✅ |
+| [Day 08](Day-08/) | LEFT JOIN & Unmatched Records | ✅ |
+| Day 09 | RIGHT JOIN & Join Direction | ⏳ |
 *The table will be updated as the challenge progresses.*
 
 ---
