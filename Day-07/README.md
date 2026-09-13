@@ -2,7 +2,7 @@
 
 
 
-Welcome to \*\*Day 08 of my 30 Days of SQL Challenge\*\*.
+Welcome to \*\*Day 07 of my 30 Days of SQL Challenge\*\*.
 
 
 
@@ -312,15 +312,15 @@ This is a useful SQL technique for analytics, reporting, data validation, and bu
 
 
 
-\*\*Day 08 / 30 ✅\*\*
+\*\*Day 07 / 30 ✅\*\*
 
 
 
-Previous: \*\*Day 07 - INNER JOIN\*\*
+Previous: \*\*Day 06 - Group by and Having\*\*
 
 
 
-Next: \*\*Day 09 - RIGHT JOIN \& Join Direction\*\*
+Next: \*\*Day 08 - Inner Join\& Join Direction\*\*
 
 
 
