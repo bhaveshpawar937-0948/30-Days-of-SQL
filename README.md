@@ -49,7 +49,8 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 06](Day-06/) | GROUP BY & HAVING | ✅ |
 | [Day 07](Day-07/) | LEFT JOIN & Unmatched Records | ✅ |
 | [Day 08](Day-08/) | RIGHT JOIN & Join Direction | ✅ |
-| Day 09 | SELF JOIN | ⏳ |
+| [Day 09](Day-09/) | SELF JOIN & Hierarchical Relationships | ✅ |
+| Day 10 | CROSS JOIN & Cartesian Products | ⏳ |
 *The table will be updated as the challenge progresses.*
 
 ---
