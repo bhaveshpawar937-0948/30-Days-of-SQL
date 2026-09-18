@@ -51,7 +51,8 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 08](Day-08/) | RIGHT JOIN & Join Direction | ✅ |
 | [Day 09](Day-09/) | SELF JOIN & Hierarchical Relationships | ✅ |
 | [Day 10](Day-10/) | CROSS JOIN & Cartesian Products | ✅ |
-| Day 11 | UNION & UNION ALL | ⏳ |
+| [Day 11](Day-11/) | UNION & UNION ALL | ✅ |
+| Day 12 | Subqueries | ⏳ |
 *The table will be updated as the challenge progresses.*
 
 ---
