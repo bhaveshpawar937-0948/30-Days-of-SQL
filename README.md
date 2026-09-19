@@ -38,7 +38,6 @@ CTEs, window functions, advanced querying and practical analysis.
 ---
 
 ## 📅 Progress
-
 | Day | Topic | Status |
 |---|---|---|
 | [Day 01](Day-01/) | SQL & Database Fundamentals | ✅ |
@@ -52,7 +51,8 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 09](Day-09/) | SELF JOIN & Hierarchical Relationships | ✅ |
 | [Day 10](Day-10/) | CROSS JOIN & Cartesian Products | ✅ |
 | [Day 11](Day-11/) | UNION & UNION ALL | ✅ |
-| Day 12 | Subqueries | ⏳ |
+| [Day 12](Day-12/) | Subqueries | ✅ |
+| Day 13 | Correlated Subqueries & EXISTS | ⏳ |
 *The table will be updated as the challenge progresses.*
 
 ---
