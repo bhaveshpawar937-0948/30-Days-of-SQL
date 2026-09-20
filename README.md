@@ -52,7 +52,8 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 10](Day-10/) | CROSS JOIN & Cartesian Products | ✅ |
 | [Day 11](Day-11/) | UNION & UNION ALL | ✅ |
 | [Day 12](Day-12/) | Subqueries | ✅ |
-| Day 13 | Correlated Subqueries & EXISTS | ⏳ |
+| [Day 13](Day-13/) | Correlated Subqueries, EXISTS & NOT EXISTS | ✅ |
+| Day 14 | CASE Expressions & Conditional Logic | ⏳ |
 *The table will be updated as the challenge progresses.*
 
 ---
