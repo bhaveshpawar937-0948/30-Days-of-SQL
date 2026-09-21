@@ -53,7 +53,8 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 11](Day-11/) | UNION & UNION ALL | ✅ |
 | [Day 12](Day-12/) | Subqueries | ✅ |
 | [Day 13](Day-13/) | Correlated Subqueries, EXISTS & NOT EXISTS | ✅ |
-| Day 14 | CASE Expressions & Conditional Logic | ⏳ |
+| [Day 14](Day-14/) | CASE Expressions & Conditional Logic | ✅ |
+| Day 15 | NULL Handling: COALESCE, NULLIF & IFNULL | ⏳ |
 *The table will be updated as the challenge progresses.*
 
 ---
