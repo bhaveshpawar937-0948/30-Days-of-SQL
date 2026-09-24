@@ -55,7 +55,8 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 13](Day-13/) | Correlated Subqueries, EXISTS & NOT EXISTS | ✅ |
 | [Day 14](Day-14/) | CASE Expressions & Conditional Logic | ✅ |
 | [Day 15](Day-15/) | NULL Handling: COALESCE, IFNULL & NULLIF | ✅ |
-| Day 16 | String Functions & Text Manipulation | ⏳ |
+| [Day 16](Day-16/) | String Functions & Text Manipulation | ✅ |
+| Day 17 | Date & Time Functions | ⏳ |
 *The table will be updated as the challenge progresses.*
 
 ---
