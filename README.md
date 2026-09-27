@@ -57,7 +57,8 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 15](Day-15/) | NULL Handling: COALESCE, IFNULL & NULLIF | ✅ |
 | [Day 16](Day-16/) | String Functions & Text Manipulation | ✅ |
 | [Day 17](Day-17/) | Date & Time Functions | ✅ |
-| Day 18 | Common Table Expressions (CTEs) | ⏳ |
+| [Day 18](Day-18/) | Common Table Expressions (CTEs) | ✅ |
+| Day 19 | Window Functions: ROW_NUMBER, RANK & DENSE_RANK | ⏳ |
 *The table will be updated as the challenge progresses.*
 
 ---
