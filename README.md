@@ -60,7 +60,8 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 18](Day-18/) | Common Table Expressions (CTEs) | ✅ |
 | [Day 19](Day-19/) | Window Functions: ROW_NUMBER, RANK & DENSE_RANK | ✅ |
 | [Day 20](Day-20/) | Aggregate Window Functions & Running Totals | ✅ |
-| Day 21 | LAG, LEAD, FIRST_VALUE & LAST_VALUE | ⏳ |
+| [Day 21](Day-21/) | LAG, LEAD, FIRST_VALUE & LAST_VALUE | ✅ |
+| Day 22 | NTILE, PERCENT_RANK & CUME_DIST | ⏳ |
 *The table will be updated as the challenge progresses.*
 
 ---
