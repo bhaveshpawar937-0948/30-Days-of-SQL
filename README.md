@@ -62,7 +62,8 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 20](Day-20/) | Aggregate Window Functions & Running Totals | ✅ |
 | [Day 21](Day-21/) | LAG, LEAD, FIRST_VALUE & LAST_VALUE | ✅ |
 | [Day 22](Day-22/) | NTILE, PERCENT_RANK & CUME_DIST | ✅ |
-| Day 23 | Views & Reusable SQL Queries | ⏳ |
+| [Day 23](Day-23/) | Views & Reusable SQL Queries | ✅ |
+| Day 24 | Indexes & Query Optimization | ⏳ |
 *The table will be updated as the challenge progresses.*
 
 ---
