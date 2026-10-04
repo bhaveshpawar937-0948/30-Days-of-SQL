@@ -64,7 +64,8 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 22](Day-22/) | NTILE, PERCENT_RANK & CUME_DIST | ✅ |
 | [Day 23](Day-23/) | Views & Reusable SQL Queries | ✅ |
 | [Day 24](Day-24/) | Indexes & Query Optimization | ✅ |
-| Day 25 | Transactions, COMMIT, ROLLBACK & SAVEPOINT | ⏳ |
+| [Day 25](Day-25/) | Transactions, COMMIT, ROLLBACK & SAVEPOINT | ✅ |
+| Day 26 | Stored Procedures & Parameters | ⏳ |
 *The table will be updated as the challenge progresses.*
 
 ---
