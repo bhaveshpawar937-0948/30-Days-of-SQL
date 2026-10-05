@@ -65,7 +65,8 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 23](Day-23/) | Views & Reusable SQL Queries | ✅ |
 | [Day 24](Day-24/) | Indexes & Query Optimization | ✅ |
 | [Day 25](Day-25/) | Transactions, COMMIT, ROLLBACK & SAVEPOINT | ✅ |
-| Day 26 | Stored Procedures & Parameters | ⏳ |
+| [Day 26](Day-26/) | Stored Procedures & Parameters | ✅ |
+| Day 27 | Stored Functions & Custom SQL Functions | ⏳ |
 *The table will be updated as the challenge progresses.*
 
 ---
