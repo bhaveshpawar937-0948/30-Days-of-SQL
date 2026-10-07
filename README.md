@@ -67,7 +67,8 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 25](Day-25/) | Transactions, COMMIT, ROLLBACK & SAVEPOINT | ✅ |
 | [Day 26](Day-26/) | Stored Procedures & Parameters | ✅ |
 | [Day 27](Day-27/) | Stored Functions & Custom SQL Functions | ✅ |
-| Day 28 | Triggers & Automated Database Actions | ⏳ |
+| [Day 28](Day-28/) | Triggers & Automated Database Actions | ✅ |
+| Day 29 | Constraints & Advanced Data Integrity | ⏳ |
 *The table will be updated as the challenge progresses.*
 
 ---
