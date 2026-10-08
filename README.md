@@ -68,7 +68,8 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 26](Day-26/) | Stored Procedures & Parameters | ✅ |
 | [Day 27](Day-27/) | Stored Functions & Custom SQL Functions | ✅ |
 | [Day 28](Day-28/) | Triggers & Automated Database Actions | ✅ |
-| Day 29 | Constraints & Advanced Data Integrity | ⏳ |
+| [Day 29](Day-29/) | Constraints & Advanced Data Integrity | 🔄 In Progress |
+| Day 30 | Final SQL Capstone Project | ⏳ |
 *The table will be updated as the challenge progresses.*
 
 ---
