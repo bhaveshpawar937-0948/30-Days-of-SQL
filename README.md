@@ -1,44 +1,72 @@
-# 🗄️ 30 Days of SQL
+# 🗄️ 30 Days of SQL Challenge
 
-A structured **30-day SQL learning challenge** focused on strengthening my SQL skills through consistent learning, hands-on queries, and practical exercises.
+A structured **30-day SQL learning and practice journey** covering SQL fundamentals, data analysis, advanced querying, database optimization, stored programs, data integrity, and a final end-to-end analytics capstone project.
 
-The goal of this challenge is to move from SQL fundamentals toward more advanced database querying concepts while documenting my progress publicly.
-
----
-
-## 🎯 Challenge Goals
-
-* Build a strong SQL foundation
-* Practice SQL consistently
-* Improve database querying skills
-* Learn how to analyze data using SQL
-* Progress from basic to advanced concepts
-* Document my learning journey
+This repository documents my progress from basic SQL queries to advanced analytical techniques using **MySQL**, with practical exercises and business-oriented examples.
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🏆 Challenge Completed
 
-### Week 1 — SQL Fundamentals
+**30 / 30 Days Completed ✅**
 
-Database concepts, SELECT, WHERE, filtering and sorting.
+**Progress: 100%**
 
-### Week 2 — Aggregation & Data Analysis
+Over the course of this challenge, I practiced SQL concepts ranging from `SELECT`, filtering, aggregation, and joins to advanced topics such as:
 
-Aggregate functions, GROUP BY, HAVING and data summarization.
+- Common Table Expressions
+- Window Functions
+- Ranking & Distribution Functions
+- Query Optimization
+- Transactions
+- Views
+- Stored Procedures
+- Stored Functions
+- Triggers
+- Constraints
+- Referential Integrity
+- Cohort Retention Analysis
+- RFM Customer Segmentation
 
-### Week 3 — Relationships & Advanced Queries
-
-Joins, subqueries and working with multiple tables.
-
-### Week 4 — Advanced SQL
-
-CTEs, window functions, advanced querying and practical analysis.
+The challenge concluded with a complete **E-Commerce Customer Analytics Capstone Project**.
 
 ---
 
-## 📅 Progress
-## 📊 30 Days of SQL - Challenge Progress
+## 🚀 Final Capstone Project
+
+### E-Commerce Customer Analytics & Retention Intelligence
+
+The Day 30 capstone combines the concepts learned throughout the challenge into a realistic e-commerce analytics project.
+
+### Business Questions Explored
+
+- How much revenue is the business generating?
+- Which products and categories generate the most revenue?
+- Who are the highest-value customers?
+- What percentage of customers make repeat purchases?
+- How does monthly revenue change over time?
+- Which customers are becoming inactive?
+- How well are customer cohorts retained?
+- Which customers should receive retention campaigns?
+
+### Advanced Analytics Used
+
+- Revenue analysis
+- Monthly growth analysis
+- Customer lifetime revenue
+- Repeat purchase rate
+- Cohort retention analysis
+- RFM segmentation
+- Customer segmentation
+- Business recommendations
+- Revenue reconciliation
+- Executive KPI reporting
+
+📂 **Capstone:** [`Day-30/`](Day-30/)
+
+---
+
+## 📊 Challenge Progress
 
 | Day | Topic | Status |
 |---|---|---|
@@ -73,28 +101,106 @@ CTEs, window functions, advanced querying and practical analysis.
 | [Day 29](Day-29/) | Constraints & Advanced Data Integrity | ✅ |
 | [Day 30](Day-30/) | Final SQL Capstone: E-Commerce Analytics | ✅ |
 
-### 🏆 Challenge Completed
+---
 
-**Completed: 30 / 30 Days**
+## 🧠 SQL Skills Covered
 
-**Progress: 100% ✅**
+### SQL Fundamentals
 
-**Status: 30 Days of SQL Challenge Completed 🎉**
-*The table will be updated as the challenge progresses.*
+- Database creation
+- Table creation
+- Data types
+- Primary keys
+- `SELECT`
+- `DISTINCT`
+- Aliases
+- Filtering with `WHERE`
+- `BETWEEN`
+- `IN`
+- `LIKE`
+- Sorting with `ORDER BY`
+- `LIMIT`
+- `OFFSET`
+
+### Aggregation & Analysis
+
+- `COUNT()`
+- `SUM()`
+- `AVG()`
+- `MIN()`
+- `MAX()`
+- `GROUP BY`
+- `HAVING`
+- Conditional aggregation
+
+### Joins
+
+- LEFT JOIN
+- RIGHT JOIN
+- SELF JOIN
+- CROSS JOIN
+- Hierarchical relationships
+- Unmatched record analysis
+
+### Set Operations & Subqueries
+
+- `UNION`
+- `UNION ALL`
+- Scalar subqueries
+- Nested subqueries
+- Correlated subqueries
+- `EXISTS`
+- `NOT EXISTS`
+
+### Data Transformation
+
+- `CASE`
+- `COALESCE`
+- `IFNULL`
+- `NULLIF`
+- String functions
+- Date and time functions
+- Data-cleaning techniques
+
+### Advanced SQL Analytics
+
+- Common Table Expressions
+- `ROW_NUMBER()`
+- `RANK()`
+- `DENSE_RANK()`
+- `SUM() OVER()`
+- `AVG() OVER()`
+- Running totals
+- Moving averages
+- `LAG()`
+- `LEAD()`
+- `FIRST_VALUE()`
+- `LAST_VALUE()`
+- `NTILE()`
+- `PERCENT_RANK()`
+- `CUME_DIST()`
+
+### Database Engineering
+
+- Views
+- Indexes
+- Composite indexes
+- Query optimization
+- `EXPLAIN`
+- Transactions
+- `COMMIT`
+- `ROLLBACK`
+- `SAVEPOINT`
+- Stored Procedures
+- Stored Functions
+- Triggers
+- Constraints
+- Foreign Keys
+- Referential Integrity
 
 ---
 
-## 🛠️ Technologies
-
-* SQL
-* Relational Databases
-* MySQL
-* Git
-* GitHub
-
----
-
-## 📂 Repository Structure
+## 🗂️ Repository Structure
 
 ```text
 30-Days-of-SQL/
@@ -107,19 +213,173 @@ CTEs, window functions, advanced querying and practical analysis.
 │   ├── README.md
 │   └── queries.sql
 │
-├── Day-03/
+├── ...
+│
+├── Day-29/
 │   ├── README.md
 │   └── queries.sql
 │
-└── ...
+├── Day-30/
+│   ├── README.md
+│   └── queries.sql
+│
+└── README.md
 ```
+
+Each day contains:
+
+- `README.md` explaining the concepts covered
+- `queries.sql` containing practical SQL exercises
 
 ---
 
-## 👨‍💻 Author
+## 🧪 Practice Database
 
-**Bhavesh Pawar**
+Most exercises use the MySQL database:
 
-B.Tech Artificial Intelligence & Data Science
+```sql
+USE sql_30_days;
+```
 
-💼 [LinkedIn](https://www.linkedin.com/in/bhavesh-pawar-ai/)
+Different tables were created throughout the challenge for practicing concepts such as:
+
+- Students
+- Student scores
+- Employees
+- Projects
+- Departments
+- Products
+- Customers
+- Orders
+- Order items
+
+Later exercises also use isolated practice tables to avoid affecting previous challenge data.
+
+---
+
+## 📈 Learning Progression
+
+The challenge followed a gradual learning path:
+
+```text
+SQL Fundamentals
+       ↓
+Filtering & Sorting
+       ↓
+Aggregation
+       ↓
+Joins
+       ↓
+Subqueries
+       ↓
+Conditional Logic
+       ↓
+Data Cleaning
+       ↓
+CTEs
+       ↓
+Window Functions
+       ↓
+Analytical SQL
+       ↓
+Views & Optimization
+       ↓
+Transactions
+       ↓
+Stored Procedures & Functions
+       ↓
+Triggers
+       ↓
+Constraints
+       ↓
+Final Analytics Capstone
+```
+
+This structure helped move from basic syntax toward solving realistic business problems with SQL.
+
+---
+
+## 💡 Key Takeaways
+
+Some of the most important lessons from this challenge were:
+
+- Writing correct SQL is only the beginning. Queries should also be readable and efficient.
+- Window functions are extremely powerful for analytical work.
+- CTEs can make complex queries easier to understand and maintain.
+- Indexes can significantly improve query performance when designed correctly.
+- Transactions help protect data consistency during multi-step operations.
+- Constraints should prevent invalid data before it enters the database.
+- SQL can be used not only to retrieve data, but also to answer real business questions.
+- Analytical techniques such as cohort retention and RFM segmentation turn transactional data into actionable insights.
+
+---
+
+## 🎯 What This Challenge Helped Me Improve
+
+Through this challenge, I strengthened my ability to:
+
+- Write complex SQL queries
+- Analyze relational datasets
+- Solve business-oriented data problems
+- Work with multiple related tables
+- Build analytical SQL reports
+- Design reusable database logic
+- Understand database integrity and optimization
+- Translate raw data into meaningful insights
+
+---
+
+## 🔜 What's Next?
+
+After completing this challenge, I plan to continue improving through:
+
+- SQL interview problems
+- Data Structures & Algorithms
+- Python for Data Analysis
+- Power BI
+- End-to-end Data Analytics projects
+- SQL + Python + Power BI projects
+- Data Engineering concepts
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Bhavesh Pawar**, a final-year B.Tech student specializing in **Artificial Intelligence & Data Science**, interested in:
+
+- Data Analytics
+- SQL
+- Python
+- Machine Learning
+- Data Engineering
+- Business Intelligence
+
+I enjoy building practical projects that combine programming, analytics, and real-world problem solving.
+
+---
+
+## 🔗 Connect With Me
+
+**GitHub:**  
+https://github.com/bhaveshpawar937-0948
+
+**LinkedIn:**  
+https://www.linkedin.com/in/bhavesh-pawar-ai/
+
+---
+
+## ⭐ Final Milestone
+
+```text
+30 Days
+30 SQL Topics
+Hundreds of Practice Queries
+1 Final Analytics Capstone
+100% Completed ✅
+```
+
+### 🏆 30 Days of SQL Challenge Completed
+
+From my first SQL database to cohort analysis and RFM segmentation, this repository documents the complete journey.
+
+**Day 01 → Day 30 ✅**
